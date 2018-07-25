@@ -1,0 +1,13 @@
+##run this file by typing the command conda create --file capstone_env.txt
+
+name: capstone_env
+dependencies:
+  - numpy
+  - pandas
+  - jupyterlab 
+  - jupyter
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - pymc3
+  - flask
