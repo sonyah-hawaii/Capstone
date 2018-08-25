@@ -1,4 +1,4 @@
-##run this file by typing the command conda create --file capstone_env.txt
+##run this file by typing the command conda env create -f capstone_env.yml
 
 name: capstone_env
 dependencies:
